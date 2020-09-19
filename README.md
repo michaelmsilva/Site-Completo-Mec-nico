@@ -1,2 +1,2 @@
-# Site-Completo-Mec-nico
+# Site-Completo-Mecânico
 Recriação do site da RM Veículos Especiais
